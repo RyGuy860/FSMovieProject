@@ -12,6 +12,6 @@ Getting started-
 
 The front end of this webpage is provided by Fresh Tomatoes.
 
-Once you have reviewed the code you can run the file movies.py in your python editor IDLE.
+Once you have reviewed the code you can run the file favMovies.py in your python editor IDLE.
 
 Thank you for visiting and I hope you enjoy the show. 
